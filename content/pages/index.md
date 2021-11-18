@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: What's Great About App Land?
+    title: What's Great About Book?
     subtitle: >-
       In a Glance
     align: center
