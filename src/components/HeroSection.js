@@ -84,7 +84,7 @@ export default class HeroSection extends React.Component {
                                 })}
                             >
                                 {title && <h1 className="hero__title">{title}</h1>}
-                                {subtitle && <p className="hero__subtitle">{subtitle}</p>}
+                                {subtitle && St}
                                 {content && <div className="hero__copy">{markdownify(content)}</div>}
                                 {!_.isEmpty(actions) && (
                                     <div
