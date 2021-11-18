@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Discover & book local beauty professionals
     subtitle: >-
-      Stop wasting your time, waiting at a shop 
+      Stop wasting your time, waiting at a shop. 
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
