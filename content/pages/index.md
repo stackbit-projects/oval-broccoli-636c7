@@ -6,9 +6,7 @@ sections:
     subtitle: >-
       Stop wasting your time, waiting at a shop. 
     content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+      B.
     actions:
       - label: App Store
         url: /pricing
