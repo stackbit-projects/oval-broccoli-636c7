@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Instantly Boost Your Productivity
+    title: Find and Book
     subtitle: >-
       Stop switching between calendars and task lists!
     content: >-
