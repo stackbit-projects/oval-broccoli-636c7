@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Discover & book local beauty professionals
     subtitle: >-
-      Stop switching between calendars and task lists!
+      Stop wasting time, waiting to be seen
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
