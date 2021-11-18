@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Stop wasting your time, waiting at a shop. 
     content: >-
-      B.
+      BookAStylist allows you to pre.
     actions:
       - label: App Store
         url: /pricing
