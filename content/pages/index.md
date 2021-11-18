@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Find and Book
+    title: Find and Book Services in your area
     subtitle: >-
       Stop switching between calendars and task lists!
     content: >-
