@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Discover & book local beauty professionals
-
     subtitle: >-
       Stop switching between calendars and task lists!
     content: >-
