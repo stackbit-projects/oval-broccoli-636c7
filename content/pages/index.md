@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: What's Great About BookAstylist App?
+    title: What's Great About BookAStylist App?
     subtitle: >-
       In a Glance
     align: center
