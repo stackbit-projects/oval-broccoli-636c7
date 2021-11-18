@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Stop wasting your time, waiting at a shop. 
     content: >-
-      BookAStylist allows you to prebook your a service, you can choose to pay cash or use your credit card.
+      BookAStylist allows you to prebook your a service, you can choose to pay cash or use your credit card. Our providers have the flexibility to work to from anywhere
     actions:
       - label: App Store
         url: /pricing
